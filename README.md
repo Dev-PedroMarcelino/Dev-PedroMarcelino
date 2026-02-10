@@ -1,8 +1,8 @@
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRrM3lmY2E2bnppODJvanR6bjAyNmt4aTQwN3k5bHE4eHBoejQxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<h2 align="left">Olá! Meu nome é Pedro Henrique Marcelino e sou um desenvolvedor em busca de conhecimento!</h2>
 
 ###
 
-<h2 align="left">Olá! Meu nome é Pedro Henrique Marcelino e sou um desenvolvedor em busca de conhecimento!</h2>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRrM3lmY2E2bnppODJvanR6bjAyNmt4aTQwN3k5bHE4eHBoejQxaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
